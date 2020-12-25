@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac5094e8-a714-4090-bde3-3c6942f2595c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapmodule2/BaiTapbuoi2/bai1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapmodule2/BaiTapbuoi2/bai2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapmodule2/Baitapbuoi1/Bai2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapmodule2/Baitapbuoi1/bai1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/CaiDatCTSQueue/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi10/CaiDatCTSQueue/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi11/GanBanNhayOSquareDance/Dancer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi11/KiemTraDauNgoacTrongBTStack/SplStack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi12/SoLanXuatHienPhanTu/PhanTu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi12/TimMinMax/MinMax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi13/BaiTap/ThuatToanSapXepChen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi13/BaiTap/ThuatToanSapXepChon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi13/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi14/Demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi14/KhaiBaoException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi15/TenLophoc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi15/Validate email.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi15/Validateaccount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi15/dienthoai.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi2/gopmang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi4/Lophinhchunhat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi4/QuadraticEquation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/Demsoluong.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi5/Taodoituong.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/LopAnimalvainterfaceEdible/AbstractClass/Fruits.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/LopAnimalvainterfaceEdible/AbtractAndInterfaceTest .php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/LopAnimalvainterfaceEdible/Animals/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/LopAnimalvainterfaceEdible/Animals/Tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/LopAnimalvainterfaceEdible/Fruits/Apple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/LopAnimalvainterfaceEdible/Fruits/Orange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/LopAnimalvainterfaceEdible/InterfaceClass/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi7/iTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi8/Refactoring.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buoi9/trienkhailopList/text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study/case_study_modul_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/Phong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/Phong2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/phong1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/phong2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/image/xe9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/controller/CuahangController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/controller/OtoController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/controller/PriceController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/model/Cuahang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/model/CuahangModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/model/DBconnection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/model/Oto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/model/OtoModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/model/Price.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/model/PriceModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/src/view/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Case_Study_2/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/.idea/mvcOverTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/src/controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/src/model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/src/model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/src/view/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/anh2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/anh3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/anh4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/anhtet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/anhtet1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/anhtet2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/hoa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/hoacuc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/todaythu3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/todaythu5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/xe13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/xe14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/upload/xe5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_aDuong/mvcOverTime/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/src/controller/StoreController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/src/model/Store.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/src/model/StoreModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/src/view/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTra/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3-Bai1/Module3-Bai1/resources/views/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3-Bai1/Module3-Bai1/resources/views/login_error.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3-Bai1/Module3-Bai1/resources/views/welcome_admin.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3-Bai1/ThuVien/resources/views/dictionary.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3-Bai1/bai2/resources/views/product.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3-Bai1/bai2/resources/views/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi2/routeCoBan/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi2/routeCoBan/resources/views/user.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi2/task_manager/resources/views/add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi2/task_manager/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi2/timezone/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi3/email-validation/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi7/validation/resources/views/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi8/laravel-page-view-counter-using-session/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi8/laravel-page-view-counter-using-session/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi8/laravel-page-view-counter-using-session/resources/views/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi8/laravel-web-login-logout-using-session/resources/views/blog.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi8/laravel-web-login-logout-using-session/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi8/laravel-web-login-logout-using-session/resources/views/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module3_Buoi8/laravel-web-login-logout-using-session/resources/views/user.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laravel-RESTful-api/app/Customers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laravel-RESTful-api/app/Http/Repositories/CustomerRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laravel-RESTful-api/app/Http/Repositories/Eloquent/EloquentRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laravel-RESTful-api/app/Http/Repositories/Impl/CustomerRepositoryImpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laravel-RESTful-api/app/Http/Repositories/Repository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laravel-RESTful-api/app/Http/Service/CustomerService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laravel-RESTful-api/app/Http/Service/Impl/CustomerServiceImpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laravel-RESTful-api/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_mvc/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_mvc/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_mvc/src/controller/Billcontroller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_mvc/src/model/Billmodel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_mvc/src/model/DPconnection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_mvc/src/view/detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_mvc/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/app/Http/Controllers/BlogController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/app/Http/Controllers/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/app/Http/Controllers/LogoutController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/resources/views/Customers/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/resources/views/Customers/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/resources/views/Customers/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/resources/views/blog.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/resources/views/cities/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/resources/views/cities/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/resources/views/cities/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/resources/views/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module3_Buoi6/QuanLyTinh/resources/views/user.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_time/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_time/HTTP2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Laravel-RESTful-api/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/composer" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Laravel-RESTful-api/vendor/phpunit/php-text-template" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1m5wGm7E0ll727IG3OBo2IFNbeh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Laravel-RESTful-api/app/Http" />
+      <recent name="$PROJECT_DIR$/Laravel-RESTful-api/app/Http/Controllers/Auth" />
+      <recent name="$PROJECT_DIR$/Laravel-RESTful-api/app/Http/Controllers" />
+      <recent name="$PROJECT_DIR$/Laravel-RESTful-api/app/Repositories" />
+      <recent name="$PROJECT_DIR$/Laravel-RESTful-api/app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac5094e8-a714-4090-bde3-3c6942f2595c" name="Default Changelist" comment="" />
+      <created>1608796667197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608796667197</updated>
+      <workItem from="1608796668583" duration="2199000" />
+      <workItem from="1608816704181" duration="4774000" />
+      <workItem from="1608858201614" duration="2702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
